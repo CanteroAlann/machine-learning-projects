@@ -3,7 +3,7 @@
 
 Aqui se encuentran los distintos trabajos que hice durante 4 meses al cursar la materia organizacion de datos , la misma pretende dar un enfoque inicial a machine learning y sus aplicaciones en la industria, cada trabajo practico consiste en lo siguiente :
 
-> **## Trabajo practico 1 :** manejo de la libreria pandas aplicado a datos del sitio  Yelp, la parte de visualizaciones consiste en el manejo de matplotlib y seaborn en datos descargados de Kaggle.
+> ## ** Trabajo practico 1 :** manejo de la libreria pandas aplicado a datos del sitio  Yelp, la parte de visualizaciones consiste en el manejo de matplotlib y seaborn en datos descargados de Kaggle.
   
 > **Trabajo practico 2 :** manejo de la herramienta Apache Spark , para este trabajo tambien se usaron datos de Yelp.
   
