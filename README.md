@@ -7,7 +7,7 @@ Aqui se encuentran los distintos trabajos que hice durante 4 meses al cursar la 
   
 > **Trabajo practico 2 :** manejo de la herramienta Apache Spark , para este trabajo tambien se usaron datos de Yelp.
   
->  **Trabajo practico 3 :** consiste en generar distintos algoritmos de machine learning para predecir la popularidad de una noticia , consiste en tres     >   partes:<br>
+>  **Trabajo practico 3 :** consiste en generar distintos algoritmos de machine learning para predecir la popularidad de una noticia , consiste en tres    partes:<br>
 >      Parte1 : modelo "baseline" usando una regresion logistica.<br>
 >      Parte2 : modelo Random Forest.<br>
 >      Parte3 : modelo XGBGradienBoost.<br>
